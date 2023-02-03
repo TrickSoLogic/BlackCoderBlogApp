@@ -1,0 +1,84 @@
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\bin\Debug\netcoreapp2.1\BlackCoderBlogApp.deps.json
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\bin\Debug\netcoreapp2.1\BlackCoderBlogApp.runtimeconfig.json
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\bin\Debug\netcoreapp2.1\BlackCoderBlogApp.runtimeconfig.dev.json
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\bin\Debug\netcoreapp2.1\BlackCoderBlogApp.dll
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\bin\Debug\netcoreapp2.1\BlackCoderBlogApp.pdb
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\bin\Debug\netcoreapp2.1\BlackCoderBlogApp.Views.dll
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\bin\Debug\netcoreapp2.1\BlackCoderBlogApp.Views.pdb
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.csproj.AssemblyReference.cache
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.AssemblyInfoInputs.cache
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.AssemblyInfo.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.csproj.CoreCompileInputs.cache
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.RazorAssemblyInfo.cache
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.RazorAssemblyInfo.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.TagHelpers.input.cache
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.TagHelpers.output.cache
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.RazorCoreGenerate.cache
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\Razor\Views\Blogs\Create.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\Razor\Views\Blogs\Delete.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\Razor\Views\Blogs\Details.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\Razor\Views\Blogs\Edit.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\Razor\Views\Blogs\Index.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\Razor\Views\Posts\Create.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\Razor\Views\Posts\Delete.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\Razor\Views\Posts\Details.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\Razor\Views\Posts\Edit.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\Razor\Views\Posts\Index.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.RazorTargetAssemblyInfo.cache
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.RazorTargetAssemblyInfo.cs
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.Views.pdb
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.dll
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.pdb
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.genruntimeconfig.cache
+C:\Users\visha\Desktop\Imp\ASP-master\EFGetStarted\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.csproj.CopyComplete
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\bin\Debug\netcoreapp2.1\appsettings.json
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\bin\Debug\netcoreapp2.1\BlackCoderBlogApp.deps.json
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\bin\Debug\netcoreapp2.1\BlackCoderBlogApp.runtimeconfig.json
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\bin\Debug\netcoreapp2.1\BlackCoderBlogApp.runtimeconfig.dev.json
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\bin\Debug\netcoreapp2.1\BlackCoderBlogApp.dll
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\bin\Debug\netcoreapp2.1\BlackCoderBlogApp.pdb
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\bin\Debug\netcoreapp2.1\BlackCoderBlogApp.Views.dll
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\bin\Debug\netcoreapp2.1\BlackCoderBlogApp.Views.pdb
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.csproj.AssemblyReference.cache
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.AssemblyInfoInputs.cache
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.AssemblyInfo.cs
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.csproj.CoreCompileInputs.cache
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.RazorAssemblyInfo.cache
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.RazorAssemblyInfo.cs
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.TagHelpers.input.cache
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.TagHelpers.output.cache
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.RazorCoreGenerate.cache
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\Razor\Views\Blogs\Create.cshtml.g.cs
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\Razor\Views\Blogs\Delete.cshtml.g.cs
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\Razor\Views\Blogs\Details.cshtml.g.cs
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\Razor\Views\Blogs\Edit.cshtml.g.cs
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\Razor\Views\Blogs\Index.cshtml.g.cs
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\Razor\Views\Posts\Create.cshtml.g.cs
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\Razor\Views\Posts\Delete.cshtml.g.cs
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\Razor\Views\Posts\Details.cshtml.g.cs
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\Razor\Views\Posts\Edit.cshtml.g.cs
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\Razor\Views\Posts\Index.cshtml.g.cs
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.RazorTargetAssemblyInfo.cache
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.RazorTargetAssemblyInfo.cs
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.Views.pdb
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.dll
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.pdb
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.genruntimeconfig.cache
+D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderBlogApp\obj\Debug\netcoreapp2.1\BlackCoderBlogApp.csproj.CopyComplete
